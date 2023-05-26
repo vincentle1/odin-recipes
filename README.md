@@ -1,2 +1,2 @@
 # odin-recipes
-practicing HTML and CSS with recipe page
+A basic recipe website with HTML and CSS.
